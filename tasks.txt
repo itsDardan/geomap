@@ -1,0 +1,3 @@
+1. Qite nav bar nelt sikur ne design vetem per tekst 
+2. Mere harten google te qajo qe te thash sot google.developer maps qe ke, e krijon nje div edhe e fut harten ne to
+3. Mere bootstrap per me bo faqen responsibles, i ndreq format
